@@ -23,13 +23,19 @@ This project secures that the webpage meets the following accessibility standard
 
 ## Usage
 
-To paly part to the revamping of the Horiseon website and improve its visibility on search engines, follow these steps:
+To play part to the revamping of the Horiseon website and improve its visibility on search engines, follow these steps:
 
 - Clone the repository to your local machine.
 - Install any dependencies required for the project.
 - Make necessary updates and improvements to the codebase.
 - Test the changes thoroughly to ensure compatibility, functionality, and SEO optimization.
 - Submit a pull request for review and integration into the main branch. 
+
+This is the link to the website: [Horiseon Marketing](https://janiandaluz.github.io/challenge-first-week/)
+
+This is the link to the GitHub repository: [GitHub Repository](https://github.com/janiandaluz/challenge-first-week)
+
+![Horiseon Website Screenshot](./assets/images/Horiseon%20Website%20Screenshot.png)
 
 ## License
 
