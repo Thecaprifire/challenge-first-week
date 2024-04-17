@@ -44,6 +44,7 @@ This is the link to the GitHub repository: [GitHub Repository](https://github.co
 - Credits given to the following youtube videos: 
     - [Making Website with HTML and CSS](https://youtu.be/aNJdOk7wv34?si=uI3C4hR4N4kyqoVS)
     - [Using Aside in HTML](https://youtu.be/aNJdOk7wv34?si=uI3C4hR4N4kyqoVS)
+    - [Why & When to Use Semantic HTML Elements over Divs](https://youtu.be/bOUhq46fd5g?si=PWPAia6DZTCVBbtH)
 
 ## License
 
