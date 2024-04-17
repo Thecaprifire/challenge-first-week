@@ -37,6 +37,14 @@ This is the link to the GitHub repository: [GitHub Repository](https://github.co
 
 ![Horiseon Website Screenshot](./assets/images/Horiseon%20Website%20Screenshot.png)
 
+## Credits
+
+- Clone the starter code from canvas with the given link: [Code Refactor Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram)
+- Credits given to fellow boot campers, TAs, and instructor.
+- Credits given to the following youtube videos: 
+    - [Making Website with HTML and CSS](https://youtu.be/aNJdOk7wv34?si=uI3C4hR4N4kyqoVS)
+    - [Using Aside in HTML](https://youtu.be/aNJdOk7wv34?si=uI3C4hR4N4kyqoVS)
+
 ## License
 
 Please refer to the LICENSE file in the repository for more information.
