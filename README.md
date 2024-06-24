@@ -31,7 +31,7 @@ To play part to the revamping of the Horiseon website and improve its visibility
 - Test the changes thoroughly to ensure compatibility, functionality, and SEO optimization.
 - Submit a pull request for review and integration into the main branch. 
 
-This is the link to the website: [Horiseon Marketing](https://janiandaluz.github.io/challenge-first-week/)
+This is the link to the website: [Horiseon Marketing](https://thecaprifire.github.io/challenge-first-week/)
 
 This is the link to the GitHub repository: [GitHub Repository](https://github.com/janiandaluz/challenge-first-week)
 
